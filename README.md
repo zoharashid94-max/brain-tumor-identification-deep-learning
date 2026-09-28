@@ -3,6 +3,7 @@
 This project focuses on identifying brain tumor grades from MRI images using deep learning and computer vision techniques.
 
 ## Models Used
+
 - CNN
 - ResNet-50
 - MobileNet
@@ -10,12 +11,15 @@ This project focuses on identifying brain tumor grades from MRI images using dee
 - Vision Transformer (ViT)
 
 ## Best Performing Model
+
 Vision Transformer (ViT)
 
 ## Best Accuracy
+
 99.61%
 
-## Technologies
+## Technologies & Tools
+
 - Python
 - Jupyter Notebook
 - Anaconda
